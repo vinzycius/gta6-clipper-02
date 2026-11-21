@@ -22,10 +22,10 @@ continuous robbery-to-shootout sequence, no montage — the hook is a drawn
 gun in the first two seconds.
 
 **The cut.** Extended Look time 696.0s to 738.0s (42 seconds, vertical
-1080x1920, a Short). The footage is center-cropped to 9:16 so the action
-fills the phone screen, the original audio stays, and the first two
-seconds are the bare robbery — no text — so the moment lands before
-anything else.
+1080x1920, a Short). The footage is blur-filled to 9:16 so nothing is
+cropped away (the gun, the masks and the car stay in frame), the original
+audio stays, and the first two seconds are the bare robbery — no text —
+so the moment lands before anything else.
 
 **The pitch.** After 30 seconds of the moment, three on-screen lines over
 the continuing shootout footage, four seconds each: "Make clips like this
